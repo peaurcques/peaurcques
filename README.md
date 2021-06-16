@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @peaurcques
+- 👀 I’m interested in Morrowind
+- 🌱 I’m currently learning how to mod Morrowind
+- 💞️ I’m looking to collaborate on modding Morrowind
+- 📫 How to reach me: peaurcques@gmail.com
