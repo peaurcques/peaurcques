@@ -2,4 +2,7 @@
 - 👀 I’m interested in Morrowind
 - 🌱 I’m currently learning how to mod Morrowind
 - 💞️ I’m looking to collaborate on modding Morrowind
-- 📫 How to reach me: peaurcques@gmail.com
+- 📫 How to reach me:
+-     Email: peaurcques@gmail.com
+-     Discord: Morrowind Writers' Guild,  @peaurcques
+-     Discord: Morrowind Modding Community, @peaurcques
